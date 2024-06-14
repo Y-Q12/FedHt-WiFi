@@ -1,0 +1,2 @@
+Average loss: -0.0311, Accuracy: 8205/9000 91.17% 
+Average loss: -0.0376, Accuracy: 8292/9000 92.13% 

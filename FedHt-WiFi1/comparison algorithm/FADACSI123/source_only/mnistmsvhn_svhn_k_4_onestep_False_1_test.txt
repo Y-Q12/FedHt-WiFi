@@ -1,0 +1,7 @@
+Average loss: -0.0120, Accuracy: 4623/9000 51.37% 
+Average loss: -0.0150, Accuracy: 5352/9000 59.47% 
+Average loss: -0.0171, Accuracy: 5346/9000 59.40% 
+Average loss: -0.0200, Accuracy: 5585/9000 62.06% 
+Average loss: -0.0199, Accuracy: 5490/9000 61.00% 
+Average loss: -0.0204, Accuracy: 5576/9000 61.96% 
+Average loss: -0.0216, Accuracy: 5750/9000 63.89% 
